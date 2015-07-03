@@ -1,0 +1,15 @@
+[submodule "altera-uboot"]
+	path = altera-uboot
+	url = https://github.com/enclustra-bsp/altera-uboot.git
+[submodule "xilinx-uboot"]
+	path = xilinx-uboot
+	url = https://github.com/enclustra-bsp/xilinx-uboot.git
+[submodule "altera-linux"]
+	path = altera-linux
+	url = https://github.com/enclustra-bsp/altera-linux.git
+[submodule "xilinx-linux"]
+	path = xilinx-linux
+	url = https://github.com/enclustra-bsp/xilinx-linux.git
+[submodule "busybox-rootfs"]
+	path = busybox-rootfs
+	url = https://github.com/enclustra-bsp/busybox-rootfs.git
