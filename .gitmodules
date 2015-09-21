@@ -16,4 +16,3 @@
 [submodule "xilinx-linux-rt"]
 	path = xilinx-linux-rt
 	url = https://github.com/enclustra-bsp/xilinx-linux.git
-	branch = rt
