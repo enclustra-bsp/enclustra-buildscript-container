@@ -16,3 +16,6 @@
 [submodule "xilinx-linux-rt"]
 	path = xilinx-linux-rt
 	url = https://github.com/enclustra-bsp/xilinx-linux.git
+[submodule "altera-linux-rt"]
+	path = altera-linux-rt
+	url = ../altera-linux/
